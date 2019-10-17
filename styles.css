@@ -1,6 +1,7 @@
 body, html {
 	font-family: 'Lato', sans-serif;
 	line-height: 1.375em;
+	color: #333;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
 
 h1 {
 	font-weight: bold;
-	font-size: 4em;
+	font-size: 3em;
 	line-height: 1.25em;
 	margin: 1em 0;
 }
@@ -20,18 +21,6 @@ p {
 
 .date {
 	font-weight: bold;
-	font-size: 2em;
+	font-size: 1.5em;
 }
 
-
-map-responsive{
-	overflow:hidden;
-	padding-bottom:56.25%;
-	position:relative;
-	height:0;
-}
-.map-responsive iframe{
-	height:100%;
-	width:100%;
-	position:relative;
-}
