@@ -6,15 +6,24 @@ body, html {
 }
 
 .content {
+	max-width: 1023px;
+	margin: 0 auto;
 }
 
 .text {
 	padding: 4em;
 }
 
+.content img {
+	width: 100%;
+}
+
 @media (max-width: 1023px) {
 	body, html {
 		font-size: 18px;
+	}
+
+	.content {
 	}
 
 	.text {
@@ -26,7 +35,7 @@ h1 {
 	font-weight: bold;
 	font-size: 3em;
 	line-height: 1.25em;
-	margin: 1em 0;
+	margin: 1em 0 0.5em;
 }
 
 p {
