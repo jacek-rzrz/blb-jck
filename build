@@ -1,14 +1,19 @@
 #!/usr/bin/env bash
 
-function build() {
+targetDir=docs
+
+# shellcheck disable=SC2115
+rm -r $targetDir/*
+
+function buildLocale() {
     lang=$1
-    targetDir=public/$lang
-    rm -r "$targetDir"
-    mkdir "$targetDir"
-    node_modules/mustache/bin/mustache locale/"$lang".json src/index.mustache > "$targetDir"/index.html
-
+    targetLocaleDir=$targetDir/$lang
+    mkdir -p "$targetLocaleDir"
+    node_modules/mustache/bin/mustache locale/"$lang".json src/index.mustache > "$targetLocaleDir"/index.html
 }
+buildLocale pl
+buildLocale en
 
-build pl
-build en
-
+cp static/* $targetDir
+cp CNAME $targetDir
+cp robots.txt $targetDir
