@@ -1,0 +1,21 @@
+{
+  "name": "blb-jck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mustache": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacek-rzrz/blb-jck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacek-rzrz/blb-jck/issues"
+  },
+  "homepage": "https://github.com/jacek-rzrz/blb-jck#readme"
+}

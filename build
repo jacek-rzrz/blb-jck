@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+function build() {
+    lang=$1
+    targetDir=public/$lang
+    rm -r "$targetDir"
+    mkdir "$targetDir"
+    node_modules/mustache/bin/mustache locale/"$lang".json src/index.mustache > "$targetDir"/index.html
+
+}
+
+build pl
+build en
+

@@ -1,0 +1,24 @@
+{
+  "event": {
+    "name": "Balbina & Jacek Party",
+    "date": "19-22 June 2020"
+  },
+
+  "calendar": {
+    "google": {
+      "link": {
+        "text": "Add to Google Calendar",
+        "href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Balbina%20and%20Jacek%20Party&dates=20200619T160000Z/20200622T100000Z&ctz=Europe%2FWarsaw&location=Stawiska.%20O%C5%9Brodek%20szkoleniowo%20-%20wypoczynkowy%2C%20Poland&sprop=website:blb-jck.pl&sprop=name:Balbina%20and%20Jacek%20Party"
+      }
+    }
+  },
+
+
+  "homepage": {
+    "intro1": "<p>After many years we have decided to take official steps. Come celebrate with us in Kashubia!</p><p>We will share more details later - save the date until then!</p>",
+    "intro2": "<p>The main celebration will happen on Saturday the 20th.</p>"
+  }
+
+
+
+}
