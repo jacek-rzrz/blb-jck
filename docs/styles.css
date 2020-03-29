@@ -60,3 +60,18 @@ p {
 	width:100%;
 	position:absolute;
 }
+
+.covid {
+    color: #000000;
+    background-color: #f2f1f0;
+}
+
+.covid h3 {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #0a0;
+}
+
+.covid p {
+    font-weight: normal;
+}

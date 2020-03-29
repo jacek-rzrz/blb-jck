@@ -6,8 +6,13 @@
   "dependencies": {
     "mustache": "^3.1.0"
   },
-  "devDependencies": {},
-  "scripts": {},
+  "devDependencies": {
+    "npm-watch": "^0.6.0"
+  },
+  "scripts": {
+    "build": "./build",
+    "watch": "npm-watch build"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jacek-rzrz/blb-jck.git"
@@ -16,6 +21,12 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jacek-rzrz/blb-jck/issues"
+  },
+  "watch": {
+    "build": {
+      "patterns": ["src", "locale", "static"],
+      "extensions": ["mustache", "css", "json"]
+    }
   },
   "homepage": "https://github.com/jacek-rzrz/blb-jck#readme"
 }

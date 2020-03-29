@@ -4,6 +4,11 @@
     "date": "19-22 czerwca 2020"
   },
 
+  "covid": {
+    "header": "COVID-19",
+    "text": "<p>Bezpieczeństwo naszych gości jest dla nas równie ważne, co dobra zabawa.</p><p>Jesteśmy w ciąglym kontakcie z Ministerstwem Zdrowia oraz WHO i na bieżąco analizujemy ich rekomendacje. Uważamy, że jest zbyt wcześnie by podejmować jakiekolwiek kroki w sprawie przesunięcia niniejszej imprezy, dlatego nie robimy jeszcze nic.<p/><p>Kolejne informacje pojawią się w tym miejscu kiedy tylko będziemy wiedzieć więcej.<p/>"
+  },
+
   "calendar": {
     "google": {
       "link": {
