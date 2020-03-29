@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "mustache": "^3.1.0"
+    "mustache": "^3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "npm-watch": "^0.6.0"
@@ -24,8 +26,16 @@
   },
   "watch": {
     "build": {
-      "patterns": ["src", "locale", "static"],
-      "extensions": ["mustache", "css", "json"]
+      "patterns": [
+        "src",
+        "locale",
+        "static"
+      ],
+      "extensions": [
+        "mustache",
+        "css",
+        "json"
+      ]
     }
   },
   "homepage": "https://github.com/jacek-rzrz/blb-jck#readme"
