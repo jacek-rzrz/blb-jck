@@ -15,5 +15,7 @@ buildLocale pl
 buildLocale en
 
 cp static/* $targetDir
+babel --presets @babel/preset-typescript --plugins @babel/plugin-transform-react-jsx src/index.tsx > docs/index.js
+
 cp CNAME $targetDir
 cp robots.txt $targetDir
