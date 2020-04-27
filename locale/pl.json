@@ -1,27 +1,27 @@
 {
   "event": {
     "name": "Impreza Balbiny i Jacka",
-    "date": "19-22 czerwca 2020"
+    "date": "18-21 czerwca 2021",
+    "prevDate": "19-22 czerwca 2020"
   },
 
   "covid": {
     "header": "COVID-19",
-    "text": "<p>Bezpieczeństwo naszych gości jest dla nas równie ważne, co dobra zabawa.</p><p>Jesteśmy w ciąglym kontakcie z Ministerstwem Zdrowia oraz WHO i na bieżąco analizujemy ich rekomendacje. Uważamy, że jest zbyt wcześnie by podejmować jakiekolwiek kroki w sprawie przesunięcia niniejszej imprezy, dlatego nie robimy jeszcze nic.<p/><p>Kolejne informacje pojawią się w tym miejscu kiedy tylko będziemy wiedzieć więcej.<p/>"
+    "text": "<p>Po wnikliwej analizie danych WHO, zdecydowaliśmy się przełożyć imprezę o 364 dni. Mamy nadzieję, że rok 2021 będzie sprzyjał zgromadzeniom powyżej dwóch osób. 🐷️🐷️</p><p>Ośrodek Stawiska, w którym odbędzie się wesele, jest zarządzany przez Gdańską Fundację Dobroczynności. Fundacja prowadzi w Stawiskach również Dom Pomocy Społecznej \"Kaszub\", który jest w trudnej sytuacji w związku z pandemią. Zachęcamy do wsparcia ich <a href=\"https://zrzutka.pl/kzm9fb\" target=\"blank\">zbiórki</a>!</p>"
   },
 
   "calendar": {
     "google": {
       "link": {
         "text": "Dodaj do Kalendarza Google",
-        "href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Impreza%20Balbiny%20i%20Jacka&dates=20200619T160000Z/20200622T100000Z&ctz=Europe%2FWarsaw&location=Stawiska.%20O%C5%9Brodek%20szkoleniowo%20-%20wypoczynkowy%2C%20Poland&sprop=website:blb-jck.pl&sprop=name:Impreza%20Balbiny%20i%20Jacka"
+        "href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Impreza%20Balbiny%20i%20Jacka&dates=20210618T160000Z/20210621T100000Z&ctz=Europe%2FWarsaw&location=Stawiska.%20O%C5%9Brodek%20szkoleniowo%20-%20wypoczynkowy%2C%20Poland&sprop=website:blb-jck.pl&sprop=name:Impreza%20Balbiny%20i%20Jacka&details=Info%3A%20https%3A%2F%2Fblb-jck.pl"
       }
     }
   },
 
-
   "homepage": {
     "intro1": "<p>Po wielu latach znajomości zdecydowaliśmy się na podjęcie kroków formalnych. Zapraszamy do wspólnego uczczenia tej okazji na Kaszubach!</p><p>Wystosujemy zaproszenia w terminie późniejszym, tymczasem zachęcamy do zaznaczenia daty w kalendarzu:</p>",
-    "intro2": "<p>Planujemy świętowanie od piątku popołudniu do poniedziałku rano. Główne obchody będą w sobotę, 20 czerwca.</p>"
+    "intro2": "<p>Planujemy świętowanie od piątku popołudniu do poniedziałku rano. Główne obchody będą w sobotę, 19 czerwca.</p>"
   }
 
 
