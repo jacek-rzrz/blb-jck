@@ -3,7 +3,7 @@
 targetDir=docs
 
 # shellcheck disable=SC2115
-rm -r $targetDir/*
+rm -rf $targetDir/*
 
 function buildLocale() {
     lang=$1
